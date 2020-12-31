@@ -151,5 +151,5 @@ a:hover, a:focus, a:active {
 .project-image{float:left;}
 .project-info{position:relative;margin-left:250px;padding:5px;text-align:left;}
 .project-info h3{font-family: 'Open Sans', serif;font-size:1.2em;font-weight:600;color:#374054;margin:0 0 15px 0;}
-.project-info p{color:#74808a;margin:0 0 8px 0;font-size:0.8em;}.no-image .project-info{position:relative;margin:0;padding:30px 15px;transform:none}
+.project-info p{color:#74808a;margin:0 0 8px 0;font-size:0.8m;}.no-image .project-info{position:relative;margin:0;padding:30px 15px;transform:none}
 .project-info a{font-size:1.0em}
